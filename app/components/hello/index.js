@@ -16,7 +16,7 @@ export default class Hello extends React.Component {
   render () {
     return (
       <div className='hello'>
-        <p>You: Hello, I am Front-end!</p>
+        <p>You:xlj Hello, I am Front-end!</p>
         <p>Backend: {this.props.info}</p>
       </div>
     )
